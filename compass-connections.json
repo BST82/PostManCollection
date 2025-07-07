@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "be97a179-fa13-4d91-b1f9-a33b8aeba8c0",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1751794762578"
+        }
+      },
+      "favorite": {
+        "name": "crud-cluster.l1l9haw.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://bt7355711982:Wa4s4VznXW99Buk3@crud-cluster.l1l9haw.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
